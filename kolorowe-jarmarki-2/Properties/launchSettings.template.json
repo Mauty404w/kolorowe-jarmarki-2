@@ -17,7 +17,8 @@
       "applicationUrl": "http://localhost:5251",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      sdsa
     }
   }
 }
